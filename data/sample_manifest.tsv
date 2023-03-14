@@ -1,3 +1,4 @@
 sample	status	group
 metagenome-assembly-notes-01	ready	control
 metagenome-assembly-notes-02	review	case
+metagenome-assembly-notes-03	queued	validation
